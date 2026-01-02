@@ -35,5 +35,7 @@ The goal of this project is to showcase personal skills, projects, and professio
 
 ---
 
-## 📁 Project Structure
+<img width="2517" height="1227" alt="Screenshot 2026-01-02 230431" src="https://github.com/user-attachments/assets/42181400-637a-4763-9cb0-b3621c3453c5" />
+<img width="2509" height="1237" alt="Screenshot 2026-01-02 230412" src="https://github.com/user-attachments/assets/2159de51-06cb-454f-a301-350626ba2964" />
+
 
