@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ishita Rawat | Creative Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HERO SECTION -->
+<section class="hero">
+  <h1>Hi, I'm <span>Ishita Rawat</span></h1>
+  <h2 id="typing"></h2>
+  <a href="resume.pdf" download class="btn">📄 Download Resume</a>
+</section>
+
+<!-- ABOUT -->
+<section class="glass">
+  <h2>👩‍💻 About Me</h2>
+  <p>
+    I am a Web Development Intern at <b>OutriX</b>, passionate about creating
+    clean, modern, and user-friendly web experiences.
+  </p>
+</section>
+
+<!-- SKILLS -->
+<section class="glass">
+  <h2>🛠 Skills</h2>
+
+  <div class="skill">
+    <span>HTML</span>
+    <div class="bar"><div class="fill html"></div></div>
+  </div>
+
+  <div class="skill">
+    <span>CSS</span>
+    <div class="bar"><div class="fill css"></div></div>
+  </div>
+
+  <div class="skill">
+    <span>JavaScript</span>
+    <div class="bar"><div class="fill js"></div></div>
+  </div>
+</section>
+
+<!-- PROJECTS -->
+<section class="glass">
+  <h2>🚀 Projects</h2>
+
+  <div class="projects">
+    <div class="card" onclick="openModal('Portfolio Website','Premium personal portfolio with modern UI/UX.')">
+      Portfolio Website
+    </div>
+
+    <div class="card" onclick="openModal('Login System','Authentication system with validation & dashboard.')">
+      Login & Registration
+    </div>
+
+    <div class="card" onclick="openModal('Weather App','Real-time weather application using API.')">
+      Weather Forecast App
+    </div>
+  </div>
+</section>
+
+<!-- MODAL -->
+<div class="modal" id="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal()">×</span>
+    <h3 id="modalTitle"></h3>
+    <p id="modalDesc"></p>
+  </div>
+</div>
+
+<!-- CONTACT -->
+<section class="glass">
+  <h2>📩 Contact</h2>
+  <p>Email: ishitarawat@example.com</p>
+  <p>LinkedIn: linkedin.com/in/ishitarawat</p>
+</section>
+
+<footer>
+  © 2026 Ishita Rawat | OutriX Web Development Internship
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
