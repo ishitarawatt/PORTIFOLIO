@@ -1,41 +1,43 @@
-# PORTIFOLIO
 # 🌐 Creative Portfolio Website
 
-## 📌 Project Overview
-This project is a **creative and modern personal portfolio website** developed as part of the **OutriX Web Development Internship Program**.
+> My personal portfolio: a polished, responsive site that introduces who I am and what I've built.
 
-The goal of this project is to showcase personal skills, projects, and professional identity through a visually appealing, responsive, and user-friendly website that reflects real-world UI/UX standards.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+Built as part of the **OutriX Web Development Internship**.
 
-## 🎯 Objectives
-- Build a professional personal portfolio
+## Highlights
+
+- ✨ Modern, premium UI
+- 📱 Fully responsive layout
+- ⌨️ Typing animation in the hero section
+- 🗂️ Project cards with modal pop-ups
+- 📊 Skill progress bars
+- 📄 Resume download button
+- 🧹 Clean, structured codebase
+
+## Objectives
+
+- Present a professional, recruiter-ready online presence
 - Apply modern UI/UX principles
-- Create a responsive and interactive design
-- Demonstrate frontend development skills
-- Prepare a recruiter-ready online presence
+- Demonstrate front-end skills in a real project
 
----
+## Run
 
-## 🛠️ Tech Stack
-- HTML5  
-- CSS3  
-- JavaScript  
+```bash
+git clone https://github.com/ishitarawatt/PORTIFOLIO.git
+cd PORTIFOLIO
+```
 
----
+Open `index.html` in your browser.
 
-## ✨ Key Features
-- Premium modern UI design
-- Responsive layout for all devices
-- Typing animation in hero section
-- Project cards with modal popups
-- Skill progress bars
-- Resume download button
-- Clean and structured codebase
+## Structure
 
----
-
-<img width="2517" height="1227" alt="Screenshot 2026-01-02 230431" src="https://github.com/user-attachments/assets/42181400-637a-4763-9cb0-b3621c3453c5" />
-<img width="2509" height="1237" alt="Screenshot 2026-01-02 230412" src="https://github.com/user-attachments/assets/2159de51-06cb-454f-a301-350626ba2964" />
-
-
+```
+PORTIFOLIO/
+├── index.html
+├── style.css
+└── script.js
+```
